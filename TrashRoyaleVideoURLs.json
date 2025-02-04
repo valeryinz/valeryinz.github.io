@@ -1,0 +1,698 @@
+{
+    "cardsByRarity": [
+        {
+            "cardsInfo": [
+                {
+                    "name": "Goblin Gang",
+                    "videoURL": [
+                        "1ZgSQn2knS0jj8fqMEU-U_ecXYEnVIYeq"
+                    ]
+                },
+                {
+                    "name": "Skeleton Barrel",
+                    "videoURL": [
+                        "1X8hwjhAXwa39FNxNlUQeuTzYEvYWtELE"
+                    ]
+                },
+                {
+                    "name": "Barbarians",
+                    "videoURL": [
+                        "1auaSU3QsN5H6XdfSpOeDRi0Ef_-BH_r1"
+                    ]
+                },
+                {
+                    "name": "Giant Snowball",
+                    "videoURL": [
+                        "1XC0Ux17xpI36TumZZmnpnPtMjhCa6WA1"
+                    ]
+                },
+                {
+                    "name": "Goblins",
+                    "videoURL": [
+                        "1fN6lWtBkyfLnHNGZSFe0FglifCp7RsBA",
+                        "1PeApNgKncvO_lasmW3xbNAJJd0nk2J3w"
+                    ]
+                },
+                {
+                    "name": "Spear Goblins",
+                    "videoURL": [
+                        "1fPBdLoCKP1ZkP7JiMMi3itGcfEi4wh1j",
+                        "1VWGiUIXyENQFDtzj8IDjqFXsVOlwSSLD"
+                    ]
+                },
+                {
+                    "name": "Royal Delivery",
+                    "videoURL": [
+                        "1M6Cf53Xn7FrsZiCiPljcFwmaRdY4TarG"
+                    ]
+                },
+                {
+                    "name": "Royal Recruits",
+                    "videoURL": [
+                        "1MFl7CUOrH37gV0pwbV4H18lxj5a0cD9p"
+                    ]
+                },
+                {
+                    "name": "Royal Giant",
+                    "videoURL": [
+                        "1S0vUB0j_83P4-P0R4UaN3_5cTCVfsBPv"
+                    ]
+                },
+                {
+                    "name": "Skeleton Dragons",
+                    "videoURL": [
+                        "1Yhhpgy4I5_CRcI4NdaAOICiBwR2w9cb-"
+                    ]
+                },
+                {
+                    "name": "Ice Spirit",
+                    "videoURL": [
+                        "1Ym_45GVcnfmSaIQs-RK8HSXpm3qcRi1X"
+                    ]
+                },
+                {
+                    "name": "Bats",
+                    "videoURL": [
+                        "1VmAbw3d4XYSKjez9aWHT2MzWfTTkoeGY"
+                    ]
+                },
+                {
+                    "name": "Archers",
+                    "videoURL": [
+                        "1b13awYNTNJmWK46qFACNVW5WEGvUW4TH"
+                    ]
+                },
+                {
+                    "name": "Minions",
+                    "videoURL": [
+                        "1U9qCxzudagHZcNjwFtgLrrak_-Fmbv92"
+                    ]
+                },
+                {
+                    "name": "Mortar",
+                    "videoURL": [
+                        "1U-Ef6YFpwsCYxbkqSOHYSzFp80Fvo9vx",
+                        "1_pGkkyZHyUDXZc8blSf8ZAj95vSUyE-Q"
+                    ]
+                },
+                {
+                    "name": "Firecracker",
+                    "videoURL": [
+                        "1MFtNT2qDdsMKmaZ7I8dyK-YkQgNJ5_ZJ",
+                        "1eU5K6rZSdYZ7PS66Ie8H9kzTk0hycW5p"
+                    ]
+                },
+                {
+                    "name": "Fire Spirit",
+                    "videoURL": [
+                        "1MPyTdstVQCy1np9OLzhiqMBwBvqYHMn0"
+                    ]
+                },
+                {
+                    "name": "Minion Horde",
+                    "videoURL": [
+                        "1Yx87znGEw-QMCTmt5rBohpV4oxXRJfzY"
+                    ]
+                },
+                {
+                    "name": "Bomber",
+                    "videoURL": [
+                        "1eeDKd1ZkhtxjDoj0miERacbv7dsUD1d9",
+                        "1NjDts9fkQNNBXUOMHj59pmU-260vu5-E"
+                    ]
+                },
+                {
+                    "name": "Cannon",
+                    "videoURL": [
+                        "1aCO6LkMW41PVKHGPgUrPGhE-XDMmADAc"
+                    ]
+                },
+                {
+                    "name": "Rascals",
+                    "videoURL": [
+                        "1Z1-vMmnrJPnRu_1pAa9P21p30kM58Phi"
+                    ]
+                },
+                {
+                    "name": "Zap",
+                    "videoURL": [
+                        "1_UgncQtc647NiLsjmI3bV-Ky38e9UNC5",
+                        "1_9fIC8AwBbxqVm9n3a8Ng3paEI1QKYcJ"
+                    ]
+                },
+                {
+                    "name": "Knight",
+                    "videoURL": [
+                        "1RdoK9u4-odYb4OUWEq4Eeke3Qi8OCLpx"
+                    ]
+                },
+                {
+                    "name": "Skeletons",
+                    "videoURL": [
+                        "1arOI7tQj7Xozqg5zIEnvQE-eYYWhreQB"
+                    ]
+                },
+                {
+                    "name": "Arrows",
+                    "videoURL": [
+                        "1aUBYs0guCh5Dj3OsJbRSNN63QKZ9LTrt"
+                    ]
+                },
+                {
+                    "name": "Tesla",
+                    "videoURL": [
+                        "1_b4DUt0cgTR1YR9EHZD-AO5pJ2t63OQB"
+                    ]
+                },
+                {
+                    "name": "Electro Spirit",
+                    "videoURL": [
+                        "1T3WlNNFCEJtiipy6g6Yd97LvYTMFIVuX"
+                    ]
+                },
+                {
+                    "name": "Elite Barbarians",
+                    "videoURL": [
+                        "1Q1f6CosHjQ2cwNC4vXX8K1qbomfus8kP"
+                    ]
+                }
+            ]
+        },
+        {
+            "cardsInfo": [
+                {
+                    "name": "Inferno Tower",
+                    "videoURL": [
+                        "1_HLZ0ulxr65Fqb1q2U546V9J5dLTduE2"
+                    ]
+                },
+                {
+                    "name": "Bomb Tower",
+                    "videoURL": [
+                        "1PSpxjRX8YkEgIrHrUw-Uny4LS-MXoXdo"
+                    ]
+                },
+                {
+                    "name": "Battle Ram",
+                    "videoURL": [
+                        "1Ng1PcjMhQVkBdCtw0oJYlZAjj0Z-a6sO"
+                    ]
+                },
+                {
+                    "name": "Valkyrie",
+                    "videoURL": [
+                        "1ZkeJUq9n6sNNqlUlnSi2JjnjFs_DjnhB"
+                    ]
+                },
+                {
+                    "name": "Hog Rider",
+                    "videoURL": [
+                        "1Ly74Bm9sB6poy8VTN5my-xjERsf9J7JX",
+                        "1Zqi29PoBYGlrF62b5Mdk6RaCX0H-8d26"
+                    ]
+                },
+                {
+                    "name": "Giant",
+                    "videoURL": [
+                        "1dRTrbCEQENNRe8yNPkc_KzAzj8nrqK3r",
+                        "1_-f69fm8BKSJHkeY9R5ErlR9pgxBUtsO",
+                        "1dL1LeTawV5DlZmUWA-Nv_z4sW0TGi9U9"
+                    ]
+                },
+                {
+                    "name": "Dart Goblin",
+                    "videoURL": [
+                        "1Yf4wTjMnWIXELz8xCCwUwwnBUCCiBEP0"
+                    ]
+                },
+                {
+                    "name": "Heal Spirit",
+                    "videoURL": [
+                        "1UWjhSkozb_z-FtahHfTBs_KF71MZvCUI"
+                    ]
+                },
+                {
+                    "name": "Earthquake",
+                    "videoURL": [
+                        "1R_WsgoyLRq3vhQrqy8riQZ3BU8RFOrwr"
+                    ]
+                },
+                {
+                    "name": "Heal",
+                    "videoURL": [
+                        "1_KRgA8EoyV7ueziyBWRbCub2B4iqXyD9"
+                    ]
+                },
+                {
+                    "name": "Goblin Cage",
+                    "videoURL": [
+                        "1dUDPSFp6n2dP5cTIRnH6sd8LukhtFOzB",
+                        "1PgLalKAZfvaO2sVhsWzo2HjcZrLiAyEO"
+                    ]
+                },
+                {
+                    "name": "Wizard",
+                    "videoURL": [
+                        "1NBUBV6Uu2ypxUFG-0co92NDRUF_tyiJG",
+                        "1dG7SnwiADLaLIkKeK38fjpalHr_ZwyhB"
+                    ]
+                },
+                {
+                    "name": "Royal Hogs",
+                    "videoURL": [
+                        "1dySWshpIHuBaQfek-VYUU1bhzbknrAik"
+                    ]
+                },
+                {
+                    "name": "Ice Golem",
+                    "videoURL": [
+                        "1T00djZ_kR4T2Jf0cjGdxlR7CKIfckJSM",
+                        "1e1ufdq_A-2aEYPofKSn3zesd_y1XetQZ"
+                    ]
+                },
+                {
+                    "name": "Flying Machine",
+                    "videoURL": [
+                        "1LpL6E7wFAx76OtvwUML60IoYZxAZnlKv"
+                    ]
+                },
+                {
+                    "name": "Mega Minion",
+                    "videoURL": [
+                        "1Nqub37nmCquWFdu81MkRGGPH6_7JJ9fw"
+                    ]
+                },
+                {
+                    "name": "Zappies",
+                    "videoURL": [
+                        "1bY7RNSkZ7yZPTK5ETX0ZkHjydSF24-Pm"
+                    ]
+                },
+                {
+                    "name": "Mini P.E.K.K.A.",
+                    "videoURL": [
+                        "1dEbzVMHUCqsfP2XDeo7IZeLtnxR8MRHD",
+                        "1eJO9DPSwdTj5jw8Q7hUGmoIFY2OaP2Sh"
+                    ]
+                },
+                {
+                    "name": "Musketeer",
+                    "videoURL": [
+                        "1_RRICdvKe1NA3W_dclKxR04U5Uznggbz"
+                    ]
+                },
+                {
+                    "name": "Tombstone",
+                    "videoURL": [
+                        "1Q_drrGQNGvy0-T5zFZ2cMZf5abQAIwNh"
+                    ]
+                },
+                {
+                    "name": "Fireball",
+                    "videoURL": [
+                        "1U5wfWjY7aE-UMbv3EqepjBX8Uh9hXMhq"
+                    ]
+                },
+                {
+                    "name": "Furnace",
+                    "videoURL": [
+                        "1Nn8BV75Wjq43ktkvQr8ULqqzWxZfroco"
+                    ]
+                },
+                {
+                    "name": "Rocket",
+                    "videoURL": [
+                        "1ZCAMFanEpgcBZQM92PxtAe4eeC-jzE0D"
+                    ]
+                },
+                {
+                    "name": "Elixir Collector",
+                    "videoURL": [
+                        "1ZCM1t5K-lFPfEBEfHoV_AEiRHEJxMimn"
+                    ]
+                },
+                {
+                    "name": "Three Musketeers",
+                    "videoURL": [
+                        "1ZJV_EeQWzOYEfruMmq16SQAyCL2VpkVh"
+                    ]
+                },
+                {
+                    "name": "Barbarian Hut",
+                    "videoURL": [
+                        "1XOxiUNxQrW2C5oUJ48Bswf2eOEDFzrc9"
+                    ]
+                },
+                {
+                    "name": "Goblin Hut",
+                    "videoURL": [
+                        "1PxwiiY_OW7UhcJqOvegr-kXEKSRi1l9m"
+                    ]
+                },
+                {
+                    "name": "Battle Healer",
+                    "videoURL": [
+                        "1eqLjfh6H_zOYSfHhkOgmdb0ABDafVB8c"
+                    ]
+                },
+                {
+                    "name": "Elixir Golem",
+                    "videoURL": [
+                        "1eyCx-xAXpuUqpQ4NTWpvqkmvycoqWw12",
+                        "1MVO3h4YQLdLdFsJej74mUjjxHASXpTwN"
+                    ]
+                }
+            ]
+        },
+        {
+            "cardsInfo": [
+                {
+                    "name": "X-Bow",
+                    "videoURL": [
+                        "1X7l8aw8rs44-xWCzfCIf8guDGLZAuxM8"
+                    ]
+                },
+                {
+                    "name": "Skeleton Army",
+                    "videoURL": [
+                        "1RJqJKVvazCdL4PM4QKnIziLGJlEB_D9H"
+                    ]
+                },
+                {
+                    "name": "Barbarian Barrel",
+                    "videoURL": [
+                        "1NS2vHJj5ecGgdPhMzbn3hN9TF571lxZx"
+                    ]
+                },
+                {
+                    "name": "Witch",
+                    "videoURL": [
+                        "1bFFkHbWpSvHauqhly8zrUzhd1kadhUcn"
+                    ]
+                },
+                {
+                    "name": "Bowler",
+                    "videoURL": [
+                        "1ZtCYB3oD4DvvrDdUOR03fe231eADj9DH",
+                        "13T1c5LcekP4d19RIgukGZZMifhHsgi4Z"
+                    ]
+                },
+                {
+                    "name": "Giant Skeleton",
+                    "videoURL": [
+                        "1bQKanNm49J2bB2hPAlqTri9tkJOww9mq"
+                    ]
+                },
+                {
+                    "name": "Goblin Giant",
+                    "videoURL": [
+                        "1QOiP-M0jo0nNRxSA5m-8Uw_eHu1tA3se"
+                    ]
+                },
+                {
+                    "name": "Goblin Barrel",
+                    "videoURL": [
+                        "1Pc0CfyA-PqA8xrnaQa2r90kCt1feVcZk"
+                    ]
+                },
+                {
+                    "name": "Goblin Drill",
+                    "videoURL": [
+                        "1Pcyc6XzZC4JCcp3dHOU1SIqEYe5PCYg8"
+                    ]
+                },
+                {
+                    "name": "Golem",
+                    "videoURL": [
+                        "1_5DCVXw2gpHyp54JZBCcgl5jU5veShfE",
+                        "1dX3cebdb3iPpIfdALy2nx1SlyX47FgZx"
+                    ]
+                },
+                {
+                    "name": "Baby Dragon",
+                    "videoURL": [
+                        "1_NuTSRY3sTKVaEqaxgQa4bmZSC3v7iiz"
+                    ]
+                },
+                {
+                    "name": "Freeze",
+                    "videoURL": [
+                        "1SnufeBgVpfB8UNk_buv1eFNlCsOI0jOp"
+                    ]
+                },
+                {
+                    "name": "Mirror",
+                    "videoURL": [
+                        "1dkfzoYTMYhCoE67WqFsKKnFtd3V-1sHy",
+                        "1_FlxNSrhqnoKued7pYQfj2RbWdRLkZ5r"
+                    ]
+                },
+                {
+                    "name": "Clone",
+                    "videoURL": [
+                        "1bFvgPb9-_pdzmewwROmHj1LeS8w00AKp",
+                        "1dtN5nepp0L-cre5PvvipdGf1s4AJ02Di",
+                        "1-bQgN4ZkL6YtDhYJDop9bkTIX-JANQ9u"
+                    ]
+                },
+                {
+                    "name": "Lightning",
+                    "videoURL": [
+                        "1Nowvx6cucLZVTpuLiavf8aP2GanwcMlr"
+                    ]
+                },
+                {
+                    "name": "Hunter",
+                    "videoURL": [
+                        "1VtI6u7DszMt8FYHpoW5QLM73muyPh1s-"
+                    ]
+                },
+                {
+                    "name": "P.E.K.K.A.",
+                    "videoURL": [
+                        "16Gkvp6pOSkb6G2xGY2SfqJKqI3_aqLr7"
+                    ]
+                },
+                {
+                    "name": "Executioner",
+                    "videoURL": [
+                        "1eZW2OprVCM83m1syn25GkVVj48ueBjfv",
+                        "1BVSraUV-q4CemKAWblXxNCCCyRZbT18J"
+                    ]
+                },
+                {
+                    "name": "Cannon Cart",
+                    "videoURL": [
+                        "1Z-pn_Ha0P88YqqCaikkuYsqHQwypY86m"
+                    ]
+                },
+                {
+                    "name": "Prince",
+                    "videoURL": [
+                        "1Quvjy25tdryHDy4r5xO9t31P3DJ-eVjk",
+                        "1eiD2uago4fe5M8-h7fdMBo7h8NTKcLu7"
+                    ]
+                },
+                {
+                    "name": "Wall Breakers",
+                    "videoURL": [
+                        "1W0lGRVZmCzIULumCN1oeSlG_6By94gzR"
+                    ]
+                },
+                {
+                    "name": "Guards",
+                    "videoURL": [
+                        "1b2an_WbdeViMHtRRZeteySpHoynNE0_X"
+                    ]
+                },
+                {
+                    "name": "Dark Prince",
+                    "videoURL": [
+                        "1WNXude7NfCAxJ7xCKjdVNrHlHjDDmPM8"
+                    ]
+                },
+                {
+                    "name": "Tornado",
+                    "videoURL": [
+                        "1bGlsFyydNIQhPHGeq6gwABEAP9H_ts9Z"
+                    ]
+                },
+                {
+                    "name": "Balloon",
+                    "videoURL": [
+                        "1_ciArzr5kbrBoMnS-tQj5C2ZH5_Uz1gw"
+                    ]
+                },
+                {
+                    "name": "Electro Giant",
+                    "videoURL": [
+                        "1RUjH3N8RrztsHgOk3rTfZcrvyRH3wSLg"
+                    ]
+                },
+                {
+                    "name": "Electro Dragon",
+                    "videoURL": [
+                        "1ZEr3ilffwRUD3ZRdPzagC4zcE46LCv44"
+                    ]
+                },
+                {
+                    "name": "Poison",
+                    "videoURL": [
+                        "1ZJ720aYUXw8sJr7Qw1I-jvfnztgUvEak"
+                    ]
+                },
+                {
+                    "name": "Rage",
+                    "videoURL": [
+                        "1f5EVjrXpsd243BMdztoZVy1bU3BSW0n0",
+                        "1SUCMH1-3QcwgzIm2pVtyJthZDXUVoCJC"
+                    ]
+                }
+            ]
+        },
+        {
+            "cardsInfo": [
+                {
+                    "name": "Lava Hound",
+                    "videoURL": [
+                        "1W7JsNJlJogVaYoOpgw2KbwkVrncfAFBc"
+                    ]
+                },
+                {
+                    "name": "Bandit",
+                    "videoURL": [
+                        "1aS_pxVHs1dveljFaEaGva1HWZIeeh_Ap"
+                    ]
+                },
+                {
+                    "name": "The Log",
+                    "videoURL": [
+                        "1Zjy9gRxjfF6_mirknmXtIg4a7NXOElD-"
+                    ]
+                },
+                {
+                    "name": "Mother Witch",
+                    "videoURL": [
+                        "1QNOkl-2PZvOr5uLb9cGBq_iwsRQLvb-G"
+                    ]
+                },
+                {
+                    "name": "Ram Rider",
+                    "videoURL": [
+                        "1dJxDI51ubLysHLQnc-j1z7qThrHlxqyX",
+                        "1M3ceg1Mhmaml8oATv8fV1kLsdSXdTONP"
+                    ]
+                },
+                {
+                    "name": "Electro Wizard",
+                    "videoURL": [
+                        "1_4Tp885fPVbUeZU5WH0HiEj9sNvuaTHx",
+                        "1dM7ZB7_FbyAJPzZlU44VnEgrTbxOHiP0"
+                    ]
+                },
+                {
+                    "name": "Lumberjack",
+                    "videoURL": [
+                        "1LS-Pi5vCXX-94y5X3BLrwGXVfLLaBAgJ"
+                    ]
+                },
+                {
+                    "name": "Graveyard",
+                    "videoURL": [
+                        "1dpjX-qa1RCXFfUE7iGgzciXrHN0qEjm6"
+                    ]
+                },
+                {
+                    "name": "Royal Ghost",
+                    "videoURL": [
+                        "1SxV2P7cL9wJYtt6_fjtavKbQ7MakqLtv"
+                    ]
+                },
+                {
+                    "name": "Ice Wizard",
+                    "videoURL": [
+                        "1VjQZRUrqTkZVkpGO6d59FsgYpnGPHl5G"
+                    ]
+                },
+                {
+                    "name": "Magic Archer",
+                    "videoURL": [
+                        "1_lOgz8KtvZcio-mDp9f1ks_qiXl8v0ML"
+                    ]
+                },
+                {
+                    "name": "Mega Knight",
+                    "videoURL": [
+                        "1_R3po1iJnB91Aix2KfFLeCJb9XMSWwgs"
+                    ]
+                },
+                {
+                    "name": "Night Witch",
+                    "videoURL": [
+                        "1aQ_pxVy680AlClD02roy4LS9XykQN-I0"
+                    ]
+                },
+                {
+                    "name": "Inferno Dragon",
+                    "videoURL": [
+                        "1XH7Oyp5GXgLgQHotHNNjqJUWf_hJyOC8"
+                    ]
+                },
+                {
+                    "name": "Princess",
+                    "videoURL": [
+                        "1aEITfElRFT1BGRlD08zvyVqvKSk6Gqu6"
+                    ]
+                },
+                {
+                    "name": "Fisherman",
+                    "videoURL": [
+                        "1emttMg4F8nGhOlIM6Xs8H8YhgJv6MNH3",
+                        "1PxQuqqdI39KM6nGsayi8ZEbdzLGpdmOT"
+                    ]
+                },
+                {
+                    "name": "Sparky",
+                    "videoURL": [
+                        "1enQmWzm-RIf_lOeoLwBsq78idUOznMAy"
+                    ]
+                },
+                {
+                    "name": "Miner",
+                    "videoURL": [
+                        "1Rj9gNBTKE_1GAbTJTNt7mGX6GbvSGiF7",
+                        "1a14NUbwTHj8QOs-GGAiyGDhW0IPgy4Az"
+                    ]
+                }
+            ]
+        },
+        {
+            "cardsInfo": [
+                {
+                    "name": "Golden Knight",
+                    "videoURL": [
+                        "1aNd2hRsmtDS36KvQTLaOp0Ya80MQxvdp"
+                    ]
+                },
+                {
+                    "name": "Archer Queen",
+                    "videoURL": [
+                        "1PoHM75hIPr4R7qYox0eZuq7YtuOHZ0nQ"
+                    ]
+                },
+                {
+                    "name": "Skeleton King",
+                    "videoURL": [
+                        "1az9feLOs6OaNYsb9FBbag4pOMBlON_Qv"
+                    ]
+                },
+                {
+                    "name": "Mighty Miner",
+                    "videoURL": [
+                        "1UXcrv9Cz39AqYMjD3fgkFPw28AZEVmFg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

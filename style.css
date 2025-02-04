@@ -1,0 +1,385 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+body
+{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  display: flex;
+  margin-top: 50px;
+}
+
+.root{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(images/bg.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-y: auto;
+    
+}
+
+.header{
+    width: 100%; 
+    height: 50px;
+    font-size: 35px;
+    box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.3);
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: rgb(255, 250, 239);
+    font-family: 'Didact Gothic', sans-serif;
+    line-height: 130%;
+    position: sticky;
+    top: 0px; left: 0px;
+    z-index: 2;
+}
+
+.block{
+    margin: auto;
+    width: 80%;
+    height: auto;
+    padding-bottom: 3%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.3);
+}
+
+.topbg{
+    width: 100%;
+    height: 250px;
+    background-image: url(images/topbg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.1);
+}
+
+.subtopbg{
+    height: 100%;
+    width: 25%;
+    margin:auto;
+    background-image: url(images/logobg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.first{
+    height: auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.about_dev_main{
+    margin: 3% 3% 1%;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.about_dev_underline{
+    margin: 3%;
+    height: 3px;
+    width: 25px;
+    margin-top: 2px;
+    border-radius: 1.5px;
+    background-color: black;
+}
+
+.about_dev_text{
+    margin: -1% 3%;
+    font-size: 30px;
+}
+
+.contacts p{
+    font-size: 40px;
+    font-weight: 600;
+    margin: 3% 3% 1%;
+}
+
+.vklogo{
+    margin-left: 3%;
+}
+
+.second{
+    margin-top: 100px;
+}
+
+.my_games{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 10px;
+}
+
+.my_games_underline{
+    margin: auto;
+    height: 3px;
+    width: 60%;
+    margin-top: 5px;
+    border-radius: 1.5px;
+    background-color: black;
+}
+
+.footer{
+    width: 100%; 
+    height: 40px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: 'Didact Gothic', sans-serif;
+    line-height: 250%;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.yetanotherblock{
+    margin: auto;
+    width: 84.5%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.games{
+    display: flex;
+    flex-direction: row;
+    margin-top: -10px;
+}
+
+.game{
+    margin: auto;
+    margin-top: 20px;
+    width: 45%;
+    height: auto;
+    border-radius: 10px;
+    background-color: rgb(247, 247, 247);
+    box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.2);
+}
+
+.game_logo{
+    width: 94%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
+}
+
+.game_main{
+    font-size: 40px;
+    margin-left: 3%;
+    margin-bottom: -3%;
+}
+
+.game_text{
+    font-size: 25px;
+    margin: 3%;
+}
+
+.game_underline{
+    margin: 4% 4% -1%;
+    height: 5px;
+    width: 20px;
+    border-radius: 2.5px;
+    background-color: black;
+}
+
+.WI_GP{
+    float: right;
+    margin-right: 3%;
+    margin-bottom: 3%;
+}
+
+.yab{
+    margin: auto;
+    width: 45%;
+    height: 250px;
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+    background-color: rgba(107, 142, 255, 0.2);
+}
+
+.first_subblock{
+    position:relative;
+}
+
+.privacy_policy{
+    color: white;
+    font-size: 30px;
+    margin: 5% 5% 3%;
+    margin-bottom: 15px;
+}
+
+.privacy_policy_sub{
+    color: rgb(186, 186, 186);
+    font-size: 20px;
+    margin: 5%;
+    margin-top: 15px;
+}
+
+.privacy_policy_button{
+    position:absolute;
+    right:0;
+	bottom:0;
+    margin-right:5%;
+    margin-bottom: 5%;
+    height: 75px;
+    width: auto;
+}
+
+.ppunder_line{
+    height: 3px;
+    width: 100px;
+    margin-left: 5%;
+    margin-bottom: 15px;
+    border-radius: 1.5px;
+    background-color: white;
+}
+
+@media (max-width: 740px){
+    .yetanotherblock{
+        margin-top: 5%;
+        margin-bottom: 5%;
+        display: flex;
+        flex-direction: column;
+        width: 84.5%;
+        height: auto;
+    }
+
+    .first_subblock{
+        margin-bottom: 3%;
+    }
+
+    .yab{
+        width: 95%;
+        height: 250px;
+    }
+
+    .privacy_policy{
+        font-size: 40px;
+        margin: 3%;
+        margin-bottom: 20px;
+    }
+
+    .privacy_policy_sub{
+        color: rgb(186, 186, 186);
+        font-size: 20px;
+        margin: 3%;
+        margin-top: 20px;
+    }
+
+    .privacy_policy_button{
+        margin-right:3%;
+        margin-bottom: 3%;
+    }
+
+    .ppunder_line{
+        height: 3px;
+        width: 150px;
+        margin-left: 3%;
+        margin-bottom: 10px;
+        background-color: white;
+    }
+}
+
+@media (max-width: 1100px){
+
+    .games{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+    }
+
+    .game{
+        width: 95%;
+        height: auto;
+    }
+
+    .WI_logo{
+        width: 95%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        margin-top: 3%;
+        margin-bottom: 3%;
+        border-radius: 10px;
+        box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.3);
+    }
+
+    .WI_main{
+        font-size: 35px;
+        margin-left: 3%;
+        margin-bottom: -3%;
+    }
+    
+    .WI_text{
+        font-size: 20px;
+        margin: 3%;
+    }
+
+    .subtopbg{
+        width: 35%;
+    }
+}
+@media (max-width: 740px){
+    .subtopbg{
+        width: 50%;
+    }
+}
+
+@media (max-width: 560px){
+    .subtopbg{
+        width: 250px;
+    }
+
+    .about_dev_main{
+        margin: 3% 3% 2%;
+        font-size: 30px;
+    }
+    
+    .about_dev_underline{
+        width: 50px;
+    }
+    
+    .about_dev_text{
+        font-size: 22px;
+    }
+
+    .contacts p{
+        font-size: 30px;
+        margin: 3% 3% 2%;
+    }
+    .vklogo{
+        width: 200px;
+    }
+}
+
+@media(min-width: 1450px){
+    .subtopbg{
+        width: 250px;
+    }
+}
+
+@media (max-width: 450px){
+    .block{
+        width: 100%;
+    }
+    .yetanotherblock{
+        width: 100%;
+    }
+}
